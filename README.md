@@ -12,8 +12,10 @@ No Installation Needed
 You may run on Visual Studio Code or any other platform.
 
 ## Images
+![Image of Website](./assets/work-day-scheduler.png)
 
 ## Link to Deployed Site
+https://lpatino1.github.io/work-day-scheduler/
 
 ## Collaboration
 
